@@ -8,7 +8,7 @@ status = "online"
 
 custom_status = "youtube.com/@SealedSaucer"  # If you don't need a custom status, just put "" instead of "youtube.com/@SealedSaucer"
 
-usertoken = "MTM2MzM2OTYxNzUxMDIzNjI1Mg.GqrlkM.Kc8SYndiWP20mckVAhQ-FpmeHYnp-IpBxSblU0"
+usertoken = "your_token"
 
 headers = {"Authorization": usertoken, "Content-Type": "application/json"}
 
