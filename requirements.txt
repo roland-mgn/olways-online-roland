@@ -1,3 +1,5 @@
 requests
 colorama
 websockets
+python-dotenv
+websocket-client
